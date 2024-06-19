@@ -35,7 +35,7 @@ form{
 }
 
 form h1{
-    font-size: 3em;r5lo
+    font-size: 3em;
     color: white;
     margin: 15px 0;
 }
@@ -61,7 +61,7 @@ form h1{
    
 }
 
-.remember-forgot{r5lo
+.remember-forgot{
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-around;
@@ -87,7 +87,7 @@ form h1{
 }
 
 .remember-forgot a:hover{
-    color: rgb(0, 0, 0);
+    color: rgba(195, 0, 255, 0.747);
 }
 
 #remember{
@@ -102,13 +102,13 @@ form h1{
     font-size: 1.2em;
     font-weight: 600;
     width: 75%;
-    color: rgb(0, 0, 0);
+    color: rgba(0, 153, 255, 0.856);
     border: none;
 }
 
 #botao:hover{
     color: white;
-    background-color: black;
+    background-color: rgb(0, 217, 255);
 }
 
 .registre a{
@@ -120,5 +120,5 @@ form h1{
 }
 
 .registre a:visited{
-    color: rgb(0, 0, 0);
+    color: rgba(0, 153, 255, 0.849);
 }
